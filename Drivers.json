@@ -1,0 +1,30 @@
+[
+  {
+    "ClientID": "1",
+    "Nome": "Luiz Henrique",
+    "Empresa": "Microsoft",
+    "Endereço": "Travessa São Gabriel",
+    "Contato": "(85)97878-9898"
+  },
+  {
+    "ClientID": "2",
+    "Nome": "Erick Pulga",
+    "Empresa": "Amazon",
+    "Endereço": "Rua Barbalha",
+    "Contato": "(85)96898-9898"
+  },
+  {
+    "ClientID": "3",
+    "Nome": "Giovanna",
+    "Empresa": "Google",
+    "Endereço": "Rua Curitiba",
+    "Contato": "(85)92818-9898"
+  },
+  {
+    "ClientID": "4",
+    "Nome": "Alan",
+    "Empresa": "CloudFlare",
+    "Endereço": "Rua Eixo 03",
+    "Contato": "(85)95818-9898"
+  }
+]

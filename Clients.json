@@ -1,0 +1,30 @@
+[
+  {
+    "DriverID": "1",
+    "Nome": "José Aldo",
+    "CNH": "44428809999",
+    "Endereço": "Avenida Cosme Ferreira",
+    "Contato": "(85)98888-9999"
+  },
+  {
+    "DriverID": "2",
+    "Nome": "Larissa Andrade",
+    "CNH": "39472761952",
+    "Endereço": "Rua Manoel Ferreira",
+    "Contato": "(85)9999-8888"
+  },
+  {
+    "DriverID": "3",
+    "Nome": "Andre Silva",
+    "CNH": "38691349363",
+    "Endereço": "Área Especial 1 Chácara 5",
+    "Contato": "(85)98888-9999"
+  },
+  {
+    "DriverID": "4",
+    "Nome": "Luiz Rodriguez",
+    "CNH": "42828727103",
+    "Endereço": "Avenida Eurico Viana",
+    "Contato": "(85)93333-9999"
+  }
+]
